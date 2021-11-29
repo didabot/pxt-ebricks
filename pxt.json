@@ -1,6 +1,6 @@
 {
     "name": "ebricks",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "MakeCode extension for didabot electric bricks",
     "license": "MIT",
     "dependencies": {
