@@ -1,0 +1,30 @@
+{
+    "name": "ebricks",
+    "version": "1.0.0",
+    "description": "MakeCode extension for didabot electric bricks",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "controls.ts",
+        "sensors.ts",
+        "display.ts",
+        "drives.ts",
+        "audio.ts",
+        "easybit.ts",
+        "ws2812b.asm",
+        "ws2812b.ts",
+        "neopixel.ts",
+        "dht11.ts",
+        "cls381.ts",
+        "paj7260.ts",
+        "tm1650.ts",
+        "oled.ts",
+        "_locales/zh/ebricks-strings.json"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
